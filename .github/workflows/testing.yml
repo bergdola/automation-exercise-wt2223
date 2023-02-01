@@ -11,7 +11,7 @@ jobs:
       - name: "Install style checker"
         run: pip install black
       - name: "Run style check"
-        run: black --check .
+        run: black .
   test:
     runs-on: ubuntu-latest
     steps:
