@@ -44,7 +44,7 @@ jobs:
         with:
           python-version: '3.8'
       - name: "Install dependency"
-      	run: pip install coverage
+        run: pip install coverage
       - name: "Download artifact"
         uses: actions/download-artifact@v2
         with:
