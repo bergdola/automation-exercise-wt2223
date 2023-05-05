@@ -1,9 +1,31 @@
-# Describe your changes
-
+## Description of changes
+<details><summary>Summary</summary>
+  Please provide a short description of the change or if the change is sufficiently described in the GitHub issue, provide a link to the issue.
+  </details>
+  
+## How has this been tested?
+<details><summary>Test description</summary>
+  Please describe the tests that you ran to verify your changes and provide instructions so others can reproduce. Please also list any relevant details for   your test configuration.
+  </details>
+    
 ## Checklist before requesting a review
+- [ ] My code follows the [coding guidelines](https://github.com/IT-REX-Platform/wiki/blob/main/dev-manuals/backend/coding-guidelines.md) of this project
 - [ ] I have performed a self-review of my code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] My code fulfilles all acceptance criteria
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] New and existing unit tests pass locally with my changes
+- [ ] I have made corresponding changes to the documentation
+- [ ] I have added explanation of architectural decision and rationales to [wiki/adr](https://github.com/IT-REX-Platform/wiki/tree/main/adr)
+- [ ] I have communicated the changes to the team
+- [ ] I have updated the changes in the ticket description
 
 ## Checklist for reviewer
-<details><summary>Hints</summary>
-  Provide a short description of the change or if the change is sufficently described in the GitHub issue, provide link to issue
-  </details>
+- [ ] The code works and does not throw errors
+- [ ] The code is easy to understand and there are no confusing parts
+- [ ] The code follows the [coding guidelines](https://github.com/IT-REX-Platform/wiki/blob/main/dev-manuals/backend/coding-guidelines.md) of this proje
+- [ ] The code change accomplishes what it is supposed to do
+- [ ] I cannot think of any use case in which the code does not behave as intended
+- [ ] The added and existing tests reasonably cover the code change
+- [ ] There are no more test cases, input or edge cases that should be tested in addition
+- [ ] Description of the change is included in the documentation
