@@ -1,12 +1,16 @@
 ## Description of changes
-<details><summary>Summary</summary>
-  Please provide a short description of the change or if the change is sufficiently described in the GitHub issue, provide a link to the issue.
-  </details>
+Please provide a short description of the change or if the change is sufficiently described in the GitHub issue, provide a link to the issue.
+
   
 ## How has this been tested?
-<details><summary>Test description</summary>
-  Please describe the tests that you ran to verify your changes and provide instructions so others can reproduce. Please also list any relevant details for   your test configuration.
-  </details>
+Please describe the test strategy you followed.
+
+- [ ] automated unit test
+- [ ] automated integration test
+- [ ] automated acceptance test
+- [ ] manual, exploratory test
+
+In case of manual test, please describe how you ran the test.
     
 ## Checklist before requesting a review
 - [ ] My code follows the [coding guidelines](https://github.com/IT-REX-Platform/wiki/blob/main/dev-manuals/backend/coding-guidelines.md) of this project
@@ -23,9 +27,9 @@
 ## Checklist for reviewer
 - [ ] The code works and does not throw errors
 - [ ] The code is easy to understand and there are no confusing parts
-- [ ] The code follows the [coding guidelines](https://github.com/IT-REX-Platform/wiki/blob/main/dev-manuals/backend/coding-guidelines.md) of this proje
+- [ ] The code follows the [coding guidelines](https://github.com/IT-REX-Platform/wiki/blob/main/dev-manuals/backend/coding-guidelines.md) of this project
 - [ ] The code change accomplishes what it is supposed to do
 - [ ] I cannot think of any use case in which the code does not behave as intended
 - [ ] The added and existing tests reasonably cover the code change
-- [ ] There are no more test cases, input or edge cases that should be tested in addition
+- [ ] I cannot think of any test cases, input or edge cases that should be tested in addition
 - [ ] Description of the change is included in the documentation
