@@ -10,7 +10,7 @@ Please describe the test strategy you followed.
 - [ ] automated acceptance test
 - [ ] manual, exploratory test
 
-In case of manual test, please describe how you ran the test.
+In case of manual test, please document the test well including a set of user instructions and prerequisites. Each including an action, it's result, and where appropriate a screenshot.
     
 ## Checklist before requesting a review
 - [ ] My code follows the [coding guidelines](https://github.com/IT-REX-Platform/wiki/blob/main/dev-manuals/backend/coding-guidelines.md) of this project
@@ -21,7 +21,6 @@ In case of manual test, please describe how you ran the test.
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] I have made corresponding changes to the documentation
 - [ ] I have added explanation of architectural decision and rationales to [wiki/adr](https://github.com/IT-REX-Platform/wiki/tree/main/adr)
-- [ ] I have communicated the changes to the team
 - [ ] I have updated the changes in the ticket description
 
 ## Checklist for reviewer
